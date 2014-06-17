@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlaytubeSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="tv_listlabel">お気に入り動画一覧</string>
+    <string name="addFav">お気に入りに追加</string>
+
+</resources>
